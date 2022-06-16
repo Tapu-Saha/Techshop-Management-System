@@ -1,0 +1,32 @@
+D:\AIUB\AIUB 8th SEMESTER\OBJECT ORIENTED PROGRAMMING 2 [N][SUMMER 20-21]\Final\Project\TechShop-management-system\TechShop-management-system\bin\Debug\Login and Registration GUI.exe.config
+D:\AIUB\AIUB 8th SEMESTER\OBJECT ORIENTED PROGRAMMING 2 [N][SUMMER 20-21]\Final\Project\TechShop-management-system\TechShop-management-system\bin\Debug\Login and Registration GUI.exe
+D:\AIUB\AIUB 8th SEMESTER\OBJECT ORIENTED PROGRAMMING 2 [N][SUMMER 20-21]\Final\Project\TechShop-management-system\TechShop-management-system\bin\Debug\Login and Registration GUI.pdb
+D:\AIUB\AIUB 8th SEMESTER\OBJECT ORIENTED PROGRAMMING 2 [N][SUMMER 20-21]\Final\Project\TechShop-management-system\TechShop-management-system\bin\Debug\MetroFramework.Design.dll
+D:\AIUB\AIUB 8th SEMESTER\OBJECT ORIENTED PROGRAMMING 2 [N][SUMMER 20-21]\Final\Project\TechShop-management-system\TechShop-management-system\bin\Debug\MetroFramework.dll
+D:\AIUB\AIUB 8th SEMESTER\OBJECT ORIENTED PROGRAMMING 2 [N][SUMMER 20-21]\Final\Project\TechShop-management-system\TechShop-management-system\bin\Debug\MetroFramework.Fonts.dll
+D:\AIUB\AIUB 8th SEMESTER\OBJECT ORIENTED PROGRAMMING 2 [N][SUMMER 20-21]\Final\Project\TechShop-management-system\TechShop-management-system\obj\Debug\Login_and_Registration_GUI.FormAdmin.resources
+D:\AIUB\AIUB 8th SEMESTER\OBJECT ORIENTED PROGRAMMING 2 [N][SUMMER 20-21]\Final\Project\TechShop-management-system\TechShop-management-system\obj\Debug\Login_and_Registration_GUI.Cart.resources
+D:\AIUB\AIUB 8th SEMESTER\OBJECT ORIENTED PROGRAMMING 2 [N][SUMMER 20-21]\Final\Project\TechShop-management-system\TechShop-management-system\obj\Debug\Login_and_Registration_GUI.FormConfirmOrder.resources
+D:\AIUB\AIUB 8th SEMESTER\OBJECT ORIENTED PROGRAMMING 2 [N][SUMMER 20-21]\Final\Project\TechShop-management-system\TechShop-management-system\obj\Debug\Login_and_Registration_GUI.FormManager.resources
+D:\AIUB\AIUB 8th SEMESTER\OBJECT ORIENTED PROGRAMMING 2 [N][SUMMER 20-21]\Final\Project\TechShop-management-system\TechShop-management-system\obj\Debug\Login_and_Registration_GUI.FormSalesman.resources
+D:\AIUB\AIUB 8th SEMESTER\OBJECT ORIENTED PROGRAMMING 2 [N][SUMMER 20-21]\Final\Project\TechShop-management-system\TechShop-management-system\obj\Debug\Login_and_Registration_GUI.Login.resources
+D:\AIUB\AIUB 8th SEMESTER\OBJECT ORIENTED PROGRAMMING 2 [N][SUMMER 20-21]\Final\Project\TechShop-management-system\TechShop-management-system\obj\Debug\Login_and_Registration_GUI.manageProduct.resources
+D:\AIUB\AIUB 8th SEMESTER\OBJECT ORIENTED PROGRAMMING 2 [N][SUMMER 20-21]\Final\Project\TechShop-management-system\TechShop-management-system\obj\Debug\Login_and_Registration_GUI.ManageSalesman.resources
+D:\AIUB\AIUB 8th SEMESTER\OBJECT ORIENTED PROGRAMMING 2 [N][SUMMER 20-21]\Final\Project\TechShop-management-system\TechShop-management-system\obj\Debug\Login_and_Registration_GUI.FormRegistration.resources
+D:\AIUB\AIUB 8th SEMESTER\OBJECT ORIENTED PROGRAMMING 2 [N][SUMMER 20-21]\Final\Project\TechShop-management-system\TechShop-management-system\obj\Debug\Login_and_Registration_GUI.Properties.Resources.resources
+D:\AIUB\AIUB 8th SEMESTER\OBJECT ORIENTED PROGRAMMING 2 [N][SUMMER 20-21]\Final\Project\TechShop-management-system\TechShop-management-system\obj\Debug\Login_and_Registration_GUI.UserControlAdminDashboard.resources
+D:\AIUB\AIUB 8th SEMESTER\OBJECT ORIENTED PROGRAMMING 2 [N][SUMMER 20-21]\Final\Project\TechShop-management-system\TechShop-management-system\obj\Debug\Login_and_Registration_GUI.UserControlAdminManageSalesman.resources
+D:\AIUB\AIUB 8th SEMESTER\OBJECT ORIENTED PROGRAMMING 2 [N][SUMMER 20-21]\Final\Project\TechShop-management-system\TechShop-management-system\obj\Debug\Login_and_Registration_GUI.UserControlApproveReg.resources
+D:\AIUB\AIUB 8th SEMESTER\OBJECT ORIENTED PROGRAMMING 2 [N][SUMMER 20-21]\Final\Project\TechShop-management-system\TechShop-management-system\obj\Debug\Login_and_Registration_GUI.UserControlEditProfile.resources
+D:\AIUB\AIUB 8th SEMESTER\OBJECT ORIENTED PROGRAMMING 2 [N][SUMMER 20-21]\Final\Project\TechShop-management-system\TechShop-management-system\obj\Debug\Login_and_Registration_GUI.UserControlManageManager.resources
+D:\AIUB\AIUB 8th SEMESTER\OBJECT ORIENTED PROGRAMMING 2 [N][SUMMER 20-21]\Final\Project\TechShop-management-system\TechShop-management-system\obj\Debug\Login_and_Registration_GUI.UserControlOrder.resources
+D:\AIUB\AIUB 8th SEMESTER\OBJECT ORIENTED PROGRAMMING 2 [N][SUMMER 20-21]\Final\Project\TechShop-management-system\TechShop-management-system\obj\Debug\Login_and_Registration_GUI.UserControlRecentOrder.resources
+D:\AIUB\AIUB 8th SEMESTER\OBJECT ORIENTED PROGRAMMING 2 [N][SUMMER 20-21]\Final\Project\TechShop-management-system\TechShop-management-system\obj\Debug\Login_and_Registration_GUI.EditProfile.resources
+D:\AIUB\AIUB 8th SEMESTER\OBJECT ORIENTED PROGRAMMING 2 [N][SUMMER 20-21]\Final\Project\TechShop-management-system\TechShop-management-system\obj\Debug\Login_and_Registration_GUI.UserControlViewCustomer.resources
+D:\AIUB\AIUB 8th SEMESTER\OBJECT ORIENTED PROGRAMMING 2 [N][SUMMER 20-21]\Final\Project\TechShop-management-system\TechShop-management-system\obj\Debug\TechShop-management-system.csproj.GenerateResource.cache
+D:\AIUB\AIUB 8th SEMESTER\OBJECT ORIENTED PROGRAMMING 2 [N][SUMMER 20-21]\Final\Project\TechShop-management-system\TechShop-management-system\obj\Debug\TechShop-management-system.csproj.CoreCompileInputs.cache
+D:\AIUB\AIUB 8th SEMESTER\OBJECT ORIENTED PROGRAMMING 2 [N][SUMMER 20-21]\Final\Project\TechShop-management-system\TechShop-management-system\obj\Debug\TechShop-management-system.csproj.CopyComplete
+D:\AIUB\AIUB 8th SEMESTER\OBJECT ORIENTED PROGRAMMING 2 [N][SUMMER 20-21]\Final\Project\TechShop-management-system\TechShop-management-system\obj\Debug\Login and Registration GUI.exe
+D:\AIUB\AIUB 8th SEMESTER\OBJECT ORIENTED PROGRAMMING 2 [N][SUMMER 20-21]\Final\Project\TechShop-management-system\TechShop-management-system\obj\Debug\Login and Registration GUI.pdb
+D:\AIUB\AIUB 8th SEMESTER\OBJECT ORIENTED PROGRAMMING 2 [N][SUMMER 20-21]\Final\Project\TechShop-management-system\TechShop-management-system\obj\Debug\TechShop-management-system.csproj.AssemblyReference.cache
+D:\AIUB\AIUB 8th SEMESTER\OBJECT ORIENTED PROGRAMMING 2 [N][SUMMER 20-21]\Final\Project\TechShop-management-system\TechShop-management-system\obj\Debug\Login_and_Registration_GUI.UserControlAddBonus.resources

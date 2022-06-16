@@ -1,0 +1,10 @@
+C:\C# Project\Login and Registration GUI\Login and Registration GUI\obj\Debug\Login_and_Registration_GUI.FormRegistration.resources
+C:\C# Project\Login and Registration GUI\Login and Registration GUI\obj\Debug\Login_and_Registration_GUI.FormLogin.resources
+C:\C# Project\Login and Registration GUI\Login and Registration GUI\obj\Debug\Login_and_Registration_GUI.Properties.Resources.resources
+C:\C# Project\Login and Registration GUI\Login and Registration GUI\obj\Debug\Login and Registration GUI.csproj.GenerateResource.cache
+C:\C# Project\Login and Registration GUI\Login and Registration GUI\obj\Debug\Login and Registration GUI.csproj.CoreCompileInputs.cache
+C:\C# Project\Login and Registration GUI\Login and Registration GUI\bin\Debug\Login and Registration GUI.exe.config
+C:\C# Project\Login and Registration GUI\Login and Registration GUI\bin\Debug\Login and Registration GUI.exe
+C:\C# Project\Login and Registration GUI\Login and Registration GUI\bin\Debug\Login and Registration GUI.pdb
+C:\C# Project\Login and Registration GUI\Login and Registration GUI\obj\Debug\Login and Registration GUI.exe
+C:\C# Project\Login and Registration GUI\Login and Registration GUI\obj\Debug\Login and Registration GUI.pdb
